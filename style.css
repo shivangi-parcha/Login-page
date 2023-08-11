@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+body{
+    
+  background-image: url("photo.jpg");
+  /* background-color: blue; */
+  /* height: 600vh; */
+  /* width: 100vw; */
+  /* background-size: cover; */
+  /* background-position: center; */
+  /* background-size: contain; */
+  /* background-position: 300px 30px; */
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  
+    
+       
+}
+
+.container{
+    border: 3px solid black;
+    height: 21rem;
+    width: 22rem;
+    margin-left: 29rem;
+    margin-top: 12rem;
+    background-color:pink;
+    border-radius: 2rem;
+}
+
+.head{
+
+    text-align: center;
+    color: rgb(19, 15, 15);
+    
+
+} 
+
+.min1{
+
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+}
+
+.min2{
+
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+}
+
+.link{
+
+    margin-top:1rem ;
+    margin-left: 1rem;
+}
+
+
+
+.label{
+
+    font-size:1.2rem;
+    color: #000000;
+}
+
+.input{
+
+    width: 17rem;
+    height: 1.5rem;
+
+}
+
+.btn{
+
+    margin: 1rem;
+    padding: 0.5rem;
+}
